@@ -2,3 +2,6 @@
   co = checkout
   lol = log --graph --decorate --pretty=oneline --abbrev-commit
   lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[core]
+  autocrlf = input
+  eol = lf
