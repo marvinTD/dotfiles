@@ -5,3 +5,6 @@
 [core]
   autocrlf = input
   eol = lf
+[user]
+  name = marvinTD
+  email = marvin@outlook.com
