@@ -1,7 +1,7 @@
 alias st='git status'
+alias gpr="git pull --rebase"
+
 alias grep='grep --color'
 alias ll='ls -lha'
-alias gpr="git pull --rebase"
-alias gra="git commit --amend --reset-author"
-alias gpr="git pull --rebase"
+
 alias b='bundle exec'
