@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.fontSize": 13,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Atom One Dark",
+    "files.maxMemoryForLargeFilesMB": 8192,
+    "workbench.editor.enablePreview": false,
+
+    "remote.SSH.defaultExtensions": [
+        "dbaeumer.vscode-eslint",
+        "grapecity.gc-excelviewer",
+        "waderyan.gitblame",
+        "ms-vsliveshare.vsliveshare",
+        "ms-python.python"
+    ]
+}
