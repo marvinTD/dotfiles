@@ -1,15 +1,22 @@
 {
     "terminal.integrated.fontSize": 13,
+    "editor.acceptSuggestionOnCommitCharacter": false,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Atom One Dark",
     "files.maxMemoryForLargeFilesMB": 8192,
     "workbench.editor.enablePreview": false,
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
 
     "remote.SSH.defaultExtensions": [
-        "dbaeumer.vscode-eslint",
         "grapecity.gc-excelviewer",
         "waderyan.gitblame",
         "ms-vsliveshare.vsliveshare",
         "ms-python.python"
-    ]
+    ],
+
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.scrollback": 100000,
+    "editor.tabSize": 2,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveshare.anonymousGuestApproval": "accept"
 }
